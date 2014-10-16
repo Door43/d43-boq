@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[boq:home|Door43 (boq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-boq|d43-boq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-boq/archive/master.zip|d43-boq.zip]]
+
+**Recent Changes**
+{{changes>ns = boq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/boq|Ethnologue data]]
+
